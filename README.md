@@ -27,8 +27,6 @@ Para empezar dentro de nuestro cuaderno tendremos otras librerías instaladas:
 import cv2
 import numpy as np
 
-from mtcnn.mtcnn import MTCNN
-
 import tkinter as tk
 ```
  
